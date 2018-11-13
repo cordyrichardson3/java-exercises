@@ -38,6 +38,7 @@ public class DayPrinter {
                 // in this example, this block runs if none of the above blocks match
                 day = "Int does not correspond to a day of the week";
         }
+
         System.out.println(day);
     }
 }
